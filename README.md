@@ -64,7 +64,7 @@ pkg install python2
 
 pkg install git
 
-git clone https://github.com/IncredibleHacker/TBomb2.0
+git clone https://github.com/kishore-0205/TBomb-V.2.0/blob/main/TBomb2.0.sh
 
 ls
 
